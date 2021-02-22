@@ -1,9 +1,14 @@
-## Run Azure CLI: 
-In order to run the Azure CLI locally, (you need Azure CLI version 2.0.4 or later) you need to install it if you don't have it. Follow this procedure: Install Azure CLI 2.0
+## Install and setup terraform: 
+Install Terraform. - https://learn.hashicorp.com/tutorials/terraform/install-cli
+Sign into your Azure Account - https://docs.microsoft.com/en-us/cli/azure/authenticate-azure-cli?view=azure-cli-latest
 
-## Then, check the version:
+## see what account is currently on:
 
-`az --version`
+`az account show --output jsonc`
+
+## Confirm you are running required/pinned version of terraform
+
+`terraform version`
 
 ## Login to Azure with:
 
