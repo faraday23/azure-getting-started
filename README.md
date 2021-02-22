@@ -20,4 +20,4 @@ Sign into your Azure Account - https://docs.microsoft.com/en-us/cli/azure/authen
 
 ## Check your default subscription with:
 
-`az account show`
+`az account show --output jsonc`
