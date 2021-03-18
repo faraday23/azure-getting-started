@@ -15,7 +15,7 @@ Sign into your Azure Account - https://docs.microsoft.com/en-us/cli/azure/authen
 
 `az login`
 
-## If you have multiple Azure subscriptions, select the one you whish to work with:
+## If you have multiple Azure subscriptions, select the one you wish to work with:
 
 `az account set --subscription [my-azure-subscription-guid]`
 
