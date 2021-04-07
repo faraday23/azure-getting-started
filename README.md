@@ -1,7 +1,7 @@
 ## Install and setup terraform: 
-Install Terraform CLI for vs code - https://learn.hashicorp.com/tutorials/terraform/install-cli  
-Install Terraform on local box - https://chocolatey.org/packages/terraform#versionhistory  
-Sign into your Azure Account - https://docs.microsoft.com/en-us/cli/azure/authenticate-azure-cli?view=azure-cli-latest
+[Install Terraform CLI for VS code](https://learn.hashicorp.com/tutorials/terraform/install-cli)  
+[Install Terraform on local box](https://chocolatey.org/packages/terraform#versionhistory)  
+[Sign into your Azure Account](https://docs.microsoft.com/en-us/cli/azure/authenticate-azure-cli?view=azure-cli-latest)  
 
 ## see what account is currently on:
 
